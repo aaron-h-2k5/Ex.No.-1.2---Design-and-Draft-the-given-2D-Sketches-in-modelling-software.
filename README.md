@@ -36,7 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- <img width="898" alt="Screenshot 2024-04-04 at 1 17 53 PM" src="https://github.com/aaron-h-2k5/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/144250957/3c5cba13-4f71-4e0f-8557-0c0f299d8f7a">
+<img width="1038" alt="Screenshot 2024-04-19 at 8 39 08 PM" src="https://github.com/aaron-h-2k5/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/144250957/6d8e4657-2aa4-4de8-bb08-c5380d2d5e3a">
+
 
 
  ## RESULT
